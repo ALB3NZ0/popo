@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cho to s chem to/1.0.0": {
+        "runtime": {
+          "cho to s chem to.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cho to s chem to/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

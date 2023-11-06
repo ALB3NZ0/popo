@@ -1,0 +1,14 @@
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\bin\Debug\net6.0\cho to s chem to.exe
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\bin\Debug\net6.0\cho to s chem to.deps.json
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\bin\Debug\net6.0\cho to s chem to.runtimeconfig.json
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\bin\Debug\net6.0\cho to s chem to.dll
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\bin\Debug\net6.0\cho to s chem to.pdb
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.AssemblyInfoInputs.cache
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.AssemblyInfo.cs
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.csproj.CoreCompileInputs.cache
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.dll
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\refint\cho to s chem to.dll
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.pdb
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\cho to s chem to.genruntimeconfig.cache
+C:\Users\Рустам\source\repos\cho to s chem to\cho to s chem to\obj\Debug\net6.0\ref\cho to s chem to.dll
